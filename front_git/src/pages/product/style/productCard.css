@@ -1,0 +1,135 @@
+.product-card {
+  border: 1px solid wheat;
+  border-radius: 15px;
+}
+
+.product-card .card-info {
+  padding: 15px;
+  text-align: center;
+}
+
+.product-card .card-info .title {
+  text-align: center;
+  color: brown;
+  font-weight: bolds;
+  display: inline;
+}
+
+.product-card .card-info .description {
+  color: gray;
+  margin: 20px;
+  font-size: 16px;
+}
+.product-card .card-info .auther {
+  text-align: center;
+  color: brown;
+  font-weight: bolds;
+}
+
+.product-card .card-info .field {
+  color: gray;
+  margin: 10px;
+  font-size: 16px;
+  display: inline-block;
+}
+.admin .showChapters {
+  background: #9c3737;
+  text-align: center;
+  border: 0;
+  padding: 8px 8px;
+  margin: 7px 2px;
+  width: 90%;
+  border-radius: 30px;
+  font-size: 14px;
+}
+.publicationDate {
+  display: inline;
+  font-size: 14px;
+  margin-left: 4px;
+  color: brown;
+}
+.admin .showChapters a {
+  text-decoration: none;
+  color: white;
+}
+.admin .remove {
+  background: #9c3737;
+  text-align: center;
+  border: 0;
+  padding: 8px 8px;
+  margin: 5px 2px;
+  width: 45%;
+  border-radius: 30px;
+  font-size: 14px;
+}
+
+.admin .remove a {
+  text-decoration: none;
+  color: white;
+}
+
+.admin .edit {
+  background: #9c3737;
+  text-align: center;
+  border: 0;
+  padding: 8px 8px;
+  margin: 5px 2px;
+  width: 45%;
+  border-radius: 30px;
+  font-size: 14px;
+}
+
+.admin .edit a {
+  text-decoration: none;
+  color: white;
+}
+.neon1 {
+  box-shadow: 0 0 5px gray, 0 0 25px gray;
+  font-size: large;
+  background: brown;
+  color: white;
+  text-align: center;
+  border: 0;
+  padding: 5px 10px;
+  margin-top: 15px;
+  width: 130px;
+  border-radius: 30px;
+  margin-left: 33%;
+  margin-bottom: 26px;
+  padding: 10px;
+}
+
+.neon1:hover {
+  box-shadow: 0 0 5px gray, 0 0 25px gray, 0 0 50px gray;
+  text-shadow: 0 0 5px gray, 0 0 25px gray, 0 0 50px gray;
+}
+
+.product-card .card-info .neon1 {
+  background: brown;
+  color: white;
+  text-align: center;
+  border: 0;
+  padding: 5px 10px;
+  margin-top: 15px;
+  width: 130px;
+  border-radius: 30px;
+}
+.description-header{
+  overflow-y: auto;
+}
+.card-image{
+  height: 400px;
+}
+.Card{
+  height: 500px;
+}
+.description{  
+  color: white;
+  height: 50px;
+  background-color:#212529 ;
+  overflow-y: auto;
+  
+}
+.card-image{
+  object-fit: cover;
+}

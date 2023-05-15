@@ -1,0 +1,10 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.BG{
+    background-image: url("../assets/images/f4b3b092-00e2-4601-ba9a-dc448c7c527d.jpg");
+    height: auto;
+    background-repeat:no-repeat ;
+    background-attachment: fixed;
+}

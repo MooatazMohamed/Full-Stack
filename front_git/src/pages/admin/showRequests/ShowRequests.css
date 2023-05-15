@@ -1,0 +1,63 @@
+.request-list {
+    padding-left: 20%;
+    padding-right: 20%;
+    margin-top: 50px;
+}
+
+.request-list .card {
+    background-color: antiquewhite;
+    display: block;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    border-radius: 50px;
+    margin-top: -7px;
+    padding: 10px;
+}
+p{
+    margin-left: 20%;
+}
+.readers-data{
+    display: inline;
+}
+.request-list p {
+    font-size: 25px;
+    margin-bottom: 1%;
+}
+
+.request-list .cont {
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.request-list .card .cont .choice .acc {
+    background: rgb(60, 132, 67);
+    color: white;
+    text-align: center;
+    border: 0;
+    padding: 12px 12px;
+    margin: 8px;
+    width: 50%;
+    border-radius: 10px;
+    font-size: 14px;
+}
+
+.request-list .card .cont .choice .dec {
+    background: brown;
+    color: white;
+    text-align: center;
+    border: 0;
+    padding: 12px 12px;
+    margin: 8px;
+    width: 50%;
+    border-radius: 10px;
+    font-size: 14px;
+}
+.choice{
+    text-align: center;
+    margin-left: 300px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.choice button{
+    width: 20%;
+}

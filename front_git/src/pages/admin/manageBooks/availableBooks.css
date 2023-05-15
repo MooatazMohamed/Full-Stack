@@ -1,0 +1,336 @@
+.product-list {
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: rgba(250, 243, 237, 0.912);
+}
+
+.product-list .product-card {
+    width: 25%;
+    margin: 30px;
+}
+
+.product-card .card-img {
+    width: 100%;
+    height: 250px;
+}
+
+.product-card .card-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+}
+
+.product-card .card-info {
+    padding: 15px;
+    text-align: center;
+}
+
+.product-card .card-info .title {
+    text-align: center;
+    color: brown;
+    font-weight: bolds;
+    margin: 5px 0px;
+}
+
+.box7 {
+    position: relative;
+    background-color: rgba(250, 243, 237, 0.912);
+    padding-left: 30%;
+    margin-top: 20px;
+    margin-bottom: -50px;
+    padding-bottom: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.input7 {
+    padding: 7px;
+    padding-left: 10px;
+    width: 550px;
+    height: 20px;
+    background: none;
+    border: 3px solid brown;
+    border-radius: 10px;
+    font-family: Comic Sans MS;
+    font-size: 17px;
+    color: brown;
+    outline: none;
+    margin-top: 40px;
+    margin-right: 320px;
+    background: rgba(250, 243, 237, 0.912);
+}
+
+.product-card .card-info .watch-but {
+    background: rgb(156, 55, 55);
+    color: white;
+    text-align: center;
+    border: 0;
+    padding: 8px 8px;
+    margin: 8px;
+    width: 140px;
+    border-radius: 30px;
+    font-size: 14px;
+}
+
+.product-card .card-info .watch-but a {
+    color: white;
+    text-decoration: none;
+}
+
+.product-card .card-info .watch-but:hover {
+    background-color: brown;
+}
+
+.admin .add-btn {
+    margin-left: 95%;
+    margin-top: 10px;
+}
+
+.add-book {
+    position: absolute;
+    top: 100px;
+    right: 30px;
+}.product-card {
+  border: 1px solid wheat;
+  border-radius: 15px;
+}
+
+.product-card .card-info {
+  padding: 15px;
+  text-align: center;
+}
+
+.product-card .card-info .title {
+  text-align: center;
+  color: brown;
+  font-weight: bolds;
+  display: inline;
+}
+
+.product-card .card-info .description {
+  color: gray;
+  margin: 20px;
+  font-size: 16px;
+}
+.product-card .card-info .auther {
+  text-align: center;
+  color: brown;
+  font-weight: bolds;
+}
+
+.product-card .card-info .field {
+  color: gray;
+  margin: 10px;
+  font-size: 16px;
+  display: inline-block;
+}
+.admin .showChapters {
+  background: #9c3737;
+  text-align: center;
+  border: 0;
+  padding: 8px 8px;
+  margin: 7px 2px;
+  width: 90%;
+  border-radius: 30px;
+  font-size: 14px;
+}
+.publicationDate {
+  display: inline;
+  font-size: 14px;
+  margin-left: 4px;
+  color: brown;
+}
+.admin .showChapters a {
+  text-decoration: none;
+  color: white;
+}
+.admin .remove {
+  background: #9c3737;
+  text-align: center;
+  border: 0;
+  padding: 8px 8px;
+  margin: 5px 2px;
+  width: 45%;
+  border-radius: 30px;
+  font-size: 14px;
+}
+
+.admin .remove a {
+  text-decoration: none;
+  color: white;
+}
+
+.admin .edit {
+  background: #9c3737;
+  text-align: center;
+  border: 0;
+  padding: 8px 8px;
+  margin: 5px 2px;
+  width: 45%;
+  border-radius: 30px;
+  font-size: 14px;
+}
+
+.admin .edit a {
+  text-decoration: none;
+  color: white;
+}
+.neon1 {
+  box-shadow: 0 0 5px gray, 0 0 25px gray;
+  font-size: large;
+  background: brown;
+  color: white;
+  text-align: center;
+  border: 0;
+  padding: 5px 10px;
+  margin-top: 15px;
+  width: 130px;
+  border-radius: 30px;
+  margin-left: 33%;
+  margin-bottom: 26px;
+  padding: 10px;
+}
+
+.neon1:hover {
+  box-shadow: 0 0 5px gray, 0 0 25px gray, 0 0 50px gray;
+  text-shadow: 0 0 5px gray, 0 0 25px gray, 0 0 50px gray;
+}
+
+.product-card .card-info .neon1 {
+  background: brown;
+  color: white;
+  text-align: center;
+  border: 0;
+  padding: 5px 10px;
+  margin-top: 15px;
+  width: 130px;
+  border-radius: 30px;
+}
+.product-card {
+    border: 1px solid wheat;
+    border-radius: 15px;
+}
+
+.product-card .card-info {
+    padding: 15px;
+    text-align: center;
+}
+
+.product-card .card-info .title {
+    text-align: center;
+    color: brown;
+    font-weight: bolds;
+    display: inline;
+}
+
+.product-card .card-info .description {
+    color: gray;
+    margin: 20px;
+    font-size: 16px;
+}
+
+.product-card .card-info .auther {
+    text-align: center;
+    color: brown;
+    font-weight: bolds;
+}
+
+.product-card .card-info .field {
+    color: gray;
+    margin: 10px;
+    font-size: 16px;
+    display: inline-block;
+}
+
+.admin .showChapters {
+    background: #9c3737;
+    text-align: center;
+    border: 0;
+    padding: 8px 8px;
+    margin: 7px 2px;
+    width: 90%;
+    border-radius: 30px;
+    font-size: 14px;
+}
+
+.publicationDate {
+    display: inline;
+    font-size: 14px;
+    margin-left: 4px;
+    color: brown;
+}
+
+.admin .showChapters a {
+    text-decoration: none;
+    color: white;
+}
+
+.admin .remove {
+    background: #9c3737;
+    text-align: center;
+    border: 0;
+    padding: 8px 8px;
+    margin: 5px 2px;
+    width: 45%;
+    border-radius: 30px;
+    font-size: 14px;
+}
+
+.admin .remove a {
+    text-decoration: none;
+    color: white;
+}
+
+.admin .edit {
+    background: #9c3737;
+    text-align: center;
+    border: 0;
+    padding: 8px 8px;
+    margin: 5px 2px;
+    width: 45%;
+    border-radius: 30px;
+    font-size: 14px;
+}
+
+.admin .edit a {
+    text-decoration: none;
+    color: white;
+}
+
+.neon1 {
+    box-shadow: 0 0 5px gray, 0 0 25px gray;
+    font-size: large;
+    background: brown;
+    color: white;
+    text-align: center;
+    border: 0;
+    padding: 5px 10px;
+    margin-top: 15px;
+    width: 130px;
+    border-radius: 30px;
+    margin-left: 33%;
+    margin-bottom: 26px;
+    padding: 10px;
+}
+
+.neon1:hover {
+    box-shadow: 0 0 5px gray, 0 0 25px gray, 0 0 50px gray;
+    text-shadow: 0 0 5px gray, 0 0 25px gray, 0 0 50px gray;
+}
+
+.product-card .card-info .neon1 {
+    background: brown;
+    color: white;
+    text-align: center;
+    border: 0;
+    padding: 5px 10px;
+    margin-top: 15px;
+    width: 130px;
+    border-radius: 30px;
+}

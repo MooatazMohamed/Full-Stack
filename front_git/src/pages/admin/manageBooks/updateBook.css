@@ -1,0 +1,53 @@
+.containerContact4 {
+  width: 85%;
+  background-color: rgba(250, 243, 237, 0.912);
+  border-radius: 6px;
+  padding: 20px 60px 30px 40px;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+h1 {
+  color: brown;
+}
+
+
+/*.content4 .right-side4 .topic-text4 {
+  font-size: 23px;
+  font-weight: 600;
+  color: brown;
+}*/
+
+.input-box4 {
+  height: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.input-box4 input{
+  border: 0px;
+  width: 300px;
+  border-radius: 3px;
+  padding: 3px;
+}
+.updateBook{
+  padding: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 0px;
+  background-color: white;
+  color: brown;
+  border-radius: 3px;
+}
+
+textarea {
+  padding: 15px;
+  height: 120px;
+  width: 40%;
+  margin: 30px 0px;
+  color: gray;
+  margin-left: 50px;
+  margin-bottom: -50px;
+  background-color:white;
+}

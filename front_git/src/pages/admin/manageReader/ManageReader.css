@@ -1,0 +1,7 @@
+.table{
+    padding: 10px;
+}
+.link,.link:hover{
+    text-decoration: none;
+    color: white;
+}
